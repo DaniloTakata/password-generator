@@ -1,3 +1,6 @@
+"""
+. Creating a simple password generator;
+"""
 from random import choice
 import string
 
